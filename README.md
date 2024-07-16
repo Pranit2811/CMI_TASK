@@ -12,6 +12,7 @@ http://127.0.0.1:8000/accounts/login/
     pip install -r requirements.txt
 
 4. Run Database Migrations
+    python manage.py makemigrations
     python manage.py migrate
 
 5. Start the Django Development Server

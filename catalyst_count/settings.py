@@ -42,7 +42,6 @@ INSTALLED_APPS = [
     'allauth',
     'allauth.account',
     'bootstrap5',
-    'django_bootstrap5',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
